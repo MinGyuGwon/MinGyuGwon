@@ -2,7 +2,7 @@
 
 #### Introduce
 - 💡 Modulabs, Facilitator at Socar Campus (2021.12 ~)
-- 📺 Spiral Media, Marketing Data Analyst (2019.07 ~ 2020.01 )
+- 📺 LG CNS, Marketing Data Analyst at Data&Analytics team (2019.07 ~ 2020.01 )
 
 #### Education
 - 🤖 Aiffel , Artificial Intelligence (2021.06~2021.12)
