@@ -1,23 +1,13 @@
-### Hi there 👋
+## This is MinGyu 🙋‍♂️
 
-🧑🏻‍💻안녕하세요. 권민규입니다! 
-- 📱 AI 혁신학교 AIFFEL 에서 퍼실리테이터로 활동하고 있습니다.
-- 💡 AI, ML, DL, Data Science 에 대해 전반적으로 공부하고 있습니다. 그 중 NLP, Data Science 분야에 관심이 있습니다.
-- 🤓 새로운 것을 배우고 실생활에 적용하는 것에 자신이 있습니다.
+#### Introduce
+- 💡 Modulabs, Facilitator at Socar Campus (2021.12 ~)
+- 📺 Spiral Media, Marketing Data Analyst (2019.07 ~ 2020.01 )
 
-Contact
-   
-
-Languages and Tools
-      
-
-Coworking Tools
-   
-
-📚블로그
-
-
-
+#### Education
+- 🤖 Aiffel , Artificial Intelligence (2021.06~2021.12)
+- 🎓 Hankuk University of Foreign Studies, AI Convergence (Language & AI) (2018.09 ~ 2022.02) 
+- 🎓 Hankuk University of Foreign Studies, Chinese Language and Culture (2015.03 ~ 2022.02) 
 
 
 <!--
